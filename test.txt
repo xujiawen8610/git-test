@@ -2,13 +2,6 @@ asfsgdgfh
 asdgf
 
 
-<<<<<<< HEAD
-agsdhf
-hot-fix:徐嘉文
-master:徐嘉文
-=======
-agsdhf      hot-fix:徐嘉文
-hot-fix:徐嘉文
->>>>>>> hot-fix
-
+徐嘉文
 aaaaaaaaaaaaaaaa
+在远程库进行的修改
